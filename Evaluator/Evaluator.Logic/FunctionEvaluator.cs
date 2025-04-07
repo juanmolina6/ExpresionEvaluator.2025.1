@@ -1,7 +1,7 @@
 ﻿using System.Globalization;
 
 namespace Evaluator.Logic;
-//hola gente
+
 public class FunctionEvaluator
 {
     public static double Evalute(string infix)
